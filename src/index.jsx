@@ -4,6 +4,8 @@ import SSCImg from './images/SSC-logo.png'
 import HonestImg from  './images/Honest.png'
 import WebDesign from './Aboutimg/skill-img.png'
 import NkImg from './Aboutimg/nikhil1.png'
+import GSPimg from './images/GSP-PNG.png'
+import Nikki from './Aboutimg/NK.png'
 
 
 function Index(){
@@ -124,6 +126,7 @@ function Index(){
             <a href="https://www.wstdigitalmedia.in"> <img src={WebImg} alt="" className='img1' /></a> 
             <a href="https://aptgssc.com">  <img src={SSCImg} alt="" className='img1' /></a>
             <a href="https://honestservices.in/"><img src={HonestImg} alt="" className='img1' /> </a>
+            <a href="https://gsppodcast.netlify.app/"> <img src={GSPimg} alt="" className='img1'  /></a>
                 
         </div>
 

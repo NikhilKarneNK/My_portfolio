@@ -166,7 +166,7 @@ a{
 
 .home{
   height: 350px;
-  border: solid;
+  /* border: solid; */
   display: flex;
   font-family:Roboto,ital;
   align-content: center;
@@ -206,7 +206,7 @@ a{
 
 .img{
   align-content: center;
-
+  
 }
 .nk{
   height:250px;
@@ -230,6 +230,7 @@ a{
   /* border-radius: 0.5rem; */
    /* border-radius: 40% 40% 0% 30% / 0% 40% 40% 30%;   */
    box-shadow: 2px 1px 2px 2px;
+   
 }
 
 .About{
@@ -416,7 +417,7 @@ footer{
   font-family: roboto;
 }
 
-@media (max-width:480px) {
+@media (max-width:480px){
   body{
     margin: 0px;
     padding: 0px;
@@ -445,7 +446,7 @@ footer{
   .home{
   height: 350px;
   width: 680px;
-  border: solid;
+  /* border: solid; */
   display: flex;
 
 }
@@ -481,7 +482,7 @@ h2{
 .content{
   height: 200px;
   width: 170px;
-  border: solid;
+  /* border: solid; */
   text-align: justify;
 }
 
@@ -515,7 +516,7 @@ h2{
 }
 
 .webimg{
-    height: 200px;
+  height: 200px;
   width: 250px;
 }
 .skill-1{
