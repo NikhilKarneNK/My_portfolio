@@ -38,7 +38,7 @@ function Index(){
 {/* page 01 */}
  <div className='home'>
  <div className='name'>
-     Hi, <br /> i'am <b className='btag'> Nikhil</b> <br />Web desinger <br />
+     Hi, <br /> i'am <b className='btag'> Nikhil</b> <br />Web designer <br />
      {/* <input type="button" name='Contact' value={Contact} /> */}
      <a href=""><button className='button'>Contact</button></a>
     <p className='social'> 
